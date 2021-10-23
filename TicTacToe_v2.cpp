@@ -2,7 +2,7 @@
 //  main.cpp
 //  Tic Tac Toe v2
 //
-//  Created by Mr. Green on 10/17/21.
+//  Created by Lennart Buhl on 10/17/21.
 //
 
 #include <iostream>
