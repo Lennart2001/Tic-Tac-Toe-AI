@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-AI-v2
+# Tic-Tac-Toe-AI
 
 
 I used the MiniMax Algorithm with the Alpha-Beta Pruning Algorithm to calculate the best Tic Tac Toe moves.
