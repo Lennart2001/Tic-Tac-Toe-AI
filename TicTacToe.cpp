@@ -1,8 +1,21 @@
 //
-//  main.cpp
-//  Tic Tac Toe v2
+// TicTacToe.cpp
 //
-//  Created by Lennart Buhl on 10/17/21.
+// --- Version: 2.0.0 
+//      --- TicTacToe AI by Lennart Buhl
+// --- Created: 10/17/21
+//      --- By Lennart Buhl
+// --- Author:
+//      --- Lennart Buhl (Git - @Lennart2001)
+// --- Repository:
+//      --- https://github.com/Lennart2001/Tic-Tac-Toe-AI
+// --- LinkedIn:
+//      --- https://www.linkedin.com/in/lennart-buhl
+//
+// Min-max Searching
+// https://www.cs.cornell.edu/courses/cs312/2002sp/lectures/rec21.htm
+// Alpha-beta pruning
+// https://www.cs.cornell.edu/courses/cs312/2002sp/lectures/rec21.htm
 //
 
 #include <iostream>
